@@ -1,5 +1,7 @@
 # dark-store
 
+![Screenshot](perek_landing.jpg)
+
 ## Project setup
 ```
 npm install

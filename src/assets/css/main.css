@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "RotondaC";
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto;
+    src: local("RotondaC"), url("../../../public/fonts/RotondaC.woff") format("woff");
+}
+@font-face {
+    font-family: "RotondaC";
+    font-weight: bold;
+    font-style: normal;
+    font-display: auto;
+    src: local("RotondaC-Bold"), url("../../../public/fonts/RotondaC-Bold.woff") format("woff");
+}
+body {
+    font-family: 'RotondaC', sans-serif;
+    background: #E5E5E5;
+}
